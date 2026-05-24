@@ -1,0 +1,10 @@
+.env
+.ipynb
+.zip
+.pptx
+.hwp
+.mp4
+.cache/
+__pycache__/
+*.pyc
+.venv/
